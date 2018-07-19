@@ -8,7 +8,7 @@
 	margin:10px;
 	border-radius:5px;
 	background-color:#e0e0eb;
-	height:800px;
+	height:1500px;
 }
 #title {
 	
@@ -41,7 +41,20 @@
 	margin-right:auto;
 	width:50%
 }
-#img-div p {
+#img-caption {
 	margin-left:60px;
 	font-size:20px;
+}
+
+#tribute-info {
+
+	margin-top: 20px;
+	text-align:center;
+
+}
+#tribute-info li {
+	margin-left:450px;
+	width:550px;
+	padding:5px;
+	font-size:18px;
 }
